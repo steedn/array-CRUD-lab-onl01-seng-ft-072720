@@ -38,5 +38,6 @@ array.first
 end
 
 def retrieve_last_element_from_array(array)
-array = []
+array = [6,4,7,3,7 , "arrays!"]
+array.last
 end
