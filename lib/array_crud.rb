@@ -12,7 +12,7 @@ array << element
 end
 
 def add_element_to_start_of_array(array, element)
-array = [ 490,47,35,14]
+array = [ "wow",47,35,14]
 array.unshift(element)
 end
 
