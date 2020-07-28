@@ -18,6 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
 array = [15,37,13]
+array.pop
 
 end
 
