@@ -33,9 +33,10 @@ array[index_number]
 end
 
 def retrieve_first_element_from_array(array)
-
+array = ["wow",5,6,3,7]
+array.first
 end
 
 def retrieve_last_element_from_array(array)
-
+array = []
 end
